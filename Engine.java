@@ -122,7 +122,7 @@ public class Engine implements StartAndStopEngine {
     public String toString() {
         return  "RATED SPEED -> " + ratedSpeed + '\n' +
                 "NUMBER OF CYLINDERS - > " + numberOfCylinders + '\n' +
-                "NUMBER OF CYLINDERS -> " + numberOfInjectors + '\n' +
+                "NUMBER OF INJECTORS -> " + numberOfInjectors + '\n' +
                 "NUMBER OF HIGH PRESSURE FUEL PUMP -> " + numberOfHighPressureFuelPumps + '\n' +
                 "POSITION OF THE CYLINDERS - > " + positionOfCylinders + '\n';
     }
